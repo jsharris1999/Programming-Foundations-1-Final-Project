@@ -1,0 +1,21 @@
+4 0 3
+
+Foyer
+1 -1 -1 -1
+Hellcat
+30 10 20 5
+
+Central_Hall
+-1 0 3 2
+Kobold
+50 15 30 10
+
+Kitchen
+-1 -1 1 -1
+Kobold_Chef
+10 3 5 2
+
+Throne_Room
+-1 -1 -1 1
+Kobold_King
+40 5 5 5

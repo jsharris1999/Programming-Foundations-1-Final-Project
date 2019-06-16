@@ -1,0 +1,3 @@
+﻿  Monster.cpp
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\final project\monster\monster\monster.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Monster.vcxproj -> C:\Users\jared\Desktop\School Work\2018-2019 School Work\Programming Foundations I\Final Project\Monster\Debug\Monster.exe
